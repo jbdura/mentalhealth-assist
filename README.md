@@ -1,5 +1,3 @@
-Here's the updated README, reflecting the folder structure with separate directories for the API and frontend:
-
 ---
 
 # **Mental health Assist**
