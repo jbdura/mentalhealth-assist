@@ -1,5 +1,3 @@
-Here's the updated README with a section on how the product can be used for mental health support:
-
 ---
 
 # **Mental Health Assist**
