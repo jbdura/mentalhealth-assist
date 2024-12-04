@@ -117,8 +117,8 @@ Mental Health Assist is designed to help individuals by providing a supportive a
 
 1. Start both servers:
    - Backend: `gemini-api` on [http://localhost:3000](http://localhost:3000).
-   - Frontend: `remix-gemini-app` on [http://localhost:3001](http://localhost:3001).
-2. Open your browser and visit [http://localhost:3001](http://localhost:3001).
+   - Frontend: `remix-gemini-app` on [http://localhost:5173/](http://localhost:5173/).
+2. Open your browser and visit [http://localhost:5173/](http://localhost:5173/).
 3. Start a conversation and enjoy the AI-powered chat.
 
 ---
